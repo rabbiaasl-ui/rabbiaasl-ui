@@ -36,3 +36,8 @@
 ![Python](https://img.shields.io/badge/Python-Beginner-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rabbiaasl-ui&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rabbiaasl-ui&layout=compact&theme=dark)
