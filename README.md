@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Sadia Aslam 👋
+
+🎓 Computer Science Student
+💻 Aspiring Software Developer
+
+## About Me
+I am a BS Computer Science student interested in software development, web technologies, and programming.
+
+## Skills
+- HTML
+- CSS
+- Java
+- Python (Beginner)
+- Microsoft Office
+
+## Currently Learning
+- Web Development
+- Python
+- Data Structures
+
+## Connect With Me
+[LinkedIn](https://www.linkedin.com/in/sadia-aslam-993122400)
