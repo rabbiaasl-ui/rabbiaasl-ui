@@ -1,38 +1,32 @@
-## Hi there 👋
 
-<!--
-**rabbiaasl-ui/rabbiaasl-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Sadia Aslam</h1>
+<h3 align="center">Computer Science Student | Aspiring Software Developer</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi, I'm Sadia Aslam 👋
+### 👩‍💻 About Me
+- 🎓 BS Computer Science Student
+- 💻 Interested in Software Development
+- 🌱 Learning Web Development and Python
+- 🚀 Building my programming skills through projects
 
-🎓 Computer Science Student
-💻 Aspiring Software Developer
+### 🛠️ Technical Skills
 
-## About Me
-I am a BS Computer Science student interested in software development, web technologies, and programming.
-
-## Skills
 - HTML
 - CSS
 - Java
 - Python (Beginner)
-- Microsoft Office
+- MS Office
 
-## Currently Learning
+### 📚 Currently Learning
 - Web Development
-- Python
+- Python Programming
 - Data Structures
 
-## Connect With Me
-[LinkedIn](https://www.linkedin.com/in/sadia-aslam-993122400)
+### 🌐 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/sadia-aslam-993122400)
+
+---
+⭐ Thanks for visiting my profile!
+
+
